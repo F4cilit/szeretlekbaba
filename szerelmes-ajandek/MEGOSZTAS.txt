@@ -1,0 +1,8 @@
+Hogyan küldd el neki egy linkben:
+
+1. Nyisd meg ezt az oldalt: https://app.netlify.com/drop
+2. Húzd rá az egész „szerelmes-ajandek” mappát az oldalra.
+3. Várj néhány másodpercet, majd másold ki az elkészült linket.
+4. Ezt a linket már a barátnőd is meg tudja nyitni telefonról vagy gépről.
+
+Fontos: a „kepek” mappának is a mappán belül kell maradnia, különben a fotók nem fognak megjelenni.
